@@ -1,0 +1,6 @@
+/home/vagrant/Projects/springboot-rabbit-demo/src/main/java/com/example/springrabbitdemo/OrderMessageSender.java
+/home/vagrant/Projects/springboot-rabbit-demo/src/main/java/com/example/springrabbitdemo/RabbitConfig.java
+/home/vagrant/Projects/springboot-rabbit-demo/src/main/java/com/example/springrabbitdemo/Order.java
+/home/vagrant/Projects/springboot-rabbit-demo/src/main/java/com/example/springrabbitdemo/MessageController.java
+/home/vagrant/Projects/springboot-rabbit-demo/src/main/java/com/example/springrabbitdemo/SpringRabbitDemoApplication.java
+/home/vagrant/Projects/springboot-rabbit-demo/src/main/java/com/example/springrabbitdemo/OrderMessageListener.java
