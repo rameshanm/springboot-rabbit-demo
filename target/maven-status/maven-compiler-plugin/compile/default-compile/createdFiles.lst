@@ -1,6 +1,0 @@
-com/example/springrabbitdemo/Order.class
-com/example/springrabbitdemo/OrderMessageSender.class
-com/example/springrabbitdemo/MessageController.class
-com/example/springrabbitdemo/OrderMessageListener.class
-com/example/springrabbitdemo/RabbitConfig.class
-com/example/springrabbitdemo/SpringRabbitDemoApplication.class
